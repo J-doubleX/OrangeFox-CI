@@ -2,7 +2,7 @@
 
 # Device
 export FOX_BRANCH="fox_12.1"
-export DT_LINK="https://github.com/OrangeFoxRecovery/device_xiaomi_evergo -b fox_12,1"
+export DT_LINK="https://github.com/OrangeFoxRecovery/device_xiaomi_evergo -b fox_12.1"
 
 export DEVICE="evergo"
 export OEM="xiaomi"
